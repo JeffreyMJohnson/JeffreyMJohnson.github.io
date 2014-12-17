@@ -23,7 +23,8 @@ As well as some functions specialized for 3D graphics programming:
 
 On to the next project after winter break!
 
-[Check it out the docs!](http://jeffreymjohnson.github.io/JMath/)
+[Check out the docs!](http://jeffreymjohnson.github.io/JMath/)
+
 [Check out the source!](https://github.com/JeffreyMJohnson/JMath)
 
 
