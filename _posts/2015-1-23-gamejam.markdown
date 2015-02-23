@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Down The Rabbit hole"
+date:   2015-1-23
+categories: jekyll update
+---
+Gamejam result.
+=========================
+
+Participated in the [Global Game Jam](http://globalgamejam.org/) and produced a little 2D platformer called [Down The Rabbit Hole](http://globalgamejam.org/2015/games/down-rabbit-hole).  Had a great time, worked with a great bunch of people and look forward to the next one!
+
+[Check out the game!](http://jeffreymjohnson.github.io/rabbit/RTW.html)
+[Source Code](https://github.com/JeffreyMJohnson/DownTheRabbitHole)
